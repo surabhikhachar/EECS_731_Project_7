@@ -1,9 +1,7 @@
-This project creates visualizations for a dataset of NBA players and their salaries. The data sets were utilized in the first data science project for EECS 731.
+This project creates visualizations for a dataset of NBA players and their salaries. The data sets were utilized in the first data science project for EECS 731. A cookie cutter data science project template was used. 
 
-Anomaly_Detection
+Visualizations
 ==============================
-
-Anomaly detection
 
 Project Organization
 ------------
